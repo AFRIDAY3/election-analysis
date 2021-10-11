@@ -1,6 +1,6 @@
 # election-analysis
 
-## Overview of Election AudiT
+## Overview of Election Audit
 The purpose of the election audit analysis is to view who won a congressional election. Data variables include counties, ballot ID, and candidate names.
 
 ## Election-Audit Results
